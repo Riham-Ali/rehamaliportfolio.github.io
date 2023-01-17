@@ -496,6 +496,15 @@ header.sticky{
 
 }
 
+.con-img img{
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+    height: inherit;
+}
+
+
+
 .contact-right form input , form textarea{
    width: 100%;
    border: 0;
