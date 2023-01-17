@@ -184,6 +184,9 @@ section{
 }
 
 .home-img img{
+    max-width: 100%;
+    height: auto;
+    width: 100%;
     margin-top: 16%;
     height: inherit;
 }
